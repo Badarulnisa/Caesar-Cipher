@@ -499,4 +499,4 @@ SOFTWARE.
 
 ---
 
-*Built with C++ | Cryptography | CTF Tooling | Cybersecurity Education*
+*C++ | Cryptography | CTF Tooling | Cybersecurity*
